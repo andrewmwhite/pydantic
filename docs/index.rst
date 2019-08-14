@@ -83,7 +83,7 @@ If you've got python 3.6 and ``pip`` installed - you're good to go.
 *pydantic* can optionally be compiled with `cython <https://cython.org/>`_ which should give a 30-50% performance
 improvement. ``manylinux`` binaries exist for python 3.6 and 3.7, so if you're installing from PyPI on linux, you
 should get *pydantic* compiled with no extra work. If you're installing manually, install ``cython`` before installing
-*pydantic* and you should get *pydandic* compiled. Compilation with cython is not tested on windows or mac.
+*pydantic* and you should get *pydantic* compiled. Compilation with cython is not tested on windows or mac.
 `[issue] <https://github.com/samuelcolvin/pydantic/issues/555>`_
 
 To test if *pydantic* is compiled run::
